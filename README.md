@@ -34,20 +34,20 @@ pip install -r requirements.txt
 
 The discord bot token can be stored in a `.env` file, located in the script folder.
 
-```
+```py
 # .env file
 DISCORD_TOKEN=my_bot_token
 ```
 
 Run with
 
-```
+```py
 python PollBot.py
 ```
 
 ## Example
 
-![Easypoll](screen_1.png)
+![Pollbot](Screen_1.png)
 
 ## Credits
 
