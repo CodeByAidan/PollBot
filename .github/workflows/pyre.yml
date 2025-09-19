@@ -38,7 +38,7 @@ jobs:
           submodules: true
 
       - name: Run Pyre
-        uses: facebook/pyre-action@5a2006452a4f852fe1c52849b6a0d0b15801a21e
+        uses: facebook/pyre-action@e187408b2fe807cc6f81dd119c01b9eadc6786f9
         with:
           # To customize these inputs:
           # See https://github.com/facebook/pyre-action#inputs
